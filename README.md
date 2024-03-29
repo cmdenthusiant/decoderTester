@@ -1,2 +1,2 @@
-# decoderTester
+# decrypterTester
 Use for ict sba
