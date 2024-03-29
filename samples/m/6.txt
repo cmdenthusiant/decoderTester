@@ -1,0 +1,9 @@
+Tantek: what does the datetime stamp represent?
+KevinMarks: in iRC, when it was said
+Tantek: is it a point in time *before* they started speaking?
+Tantek: or *after*?
+Tantek: or somewhere in the *middle*?
+KevinMarks: usually it is quantised to seconds
+KevinMarks: and it is time the msg was received
+Tantek: but the second they started typing or pressed return?
+KevinMarks: prssed return i think
